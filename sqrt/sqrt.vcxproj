@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="array_1d.cpp" />
     <ClCompile Include="root.cpp" />
   </ItemGroup>
   <ItemGroup>
